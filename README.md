@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-v-gv07)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gokul-v-portfolio.ai.studio/)
-[![CodeChef](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.codechef.com/users/gokul_v_3776)
+[![CodeChef](https://img.shields.io/badge/codeChef-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.codechef.com/users/gokul_v_3776)
 
 ## 🚀 About Me
 A passionate B.Tech IT student at Sethu Institute of Technology (8.3 CGPA) dedicated to bridging modern web architecture with artificial intelligence. I build scalable full-stack platforms, Gemini-powered tools, and offline P2P mobile networks.
@@ -34,5 +34,5 @@ A passionate B.Tech IT student at Sethu Institute of Technology (8.3 CGPA) dedic
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [your.email@example.com](mailto:gvking064@gmail.com)
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/gokul-v-gv07)
+- 📧 Email: [gvking064@gmail.com](mailto:gvking064@gmail.com)
+- 💼 LinkedIn: [gokul-v-gv07](https://www.linkedin.com/in/gokul-v-gv07)
