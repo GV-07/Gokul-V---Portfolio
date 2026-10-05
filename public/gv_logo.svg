@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+
+    <!-- GV Letter Gradient: Lime Green to Cyan Blue -->
+    <linearGradient id="gvLetterGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="45%" stop-color="#22c55e"/>
+      <stop offset="80%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+
+    <!-- Swoosh Arc Gradient -->
+    <linearGradient id="swooshGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="30%" stop-color="#bbf7d0"/>
+      <stop offset="70%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Dark Background Capsule/Rect -->
+  <rect width="400" height="300" fill="url(#bgGrad)" rx="16"/>
+
+  <g filter="url(#neonGlow)">
+    <!-- Swoosh Arc cutting across top of GV -->
+    <path d="M 65 190 C 80 130 150 65 330 50 C 250 65 140 100 95 190 Z" fill="url(#swooshGrad)"/>
+    <path d="M 72 185 Q 160 80 340 50" stroke="#ffffff" stroke-width="2" fill="none" opacity="0.9"/>
+
+    <!-- GV Monogram Group -->
+    <g transform="translate(85, 80)">
+      <!-- G Letter Path -->
+      <path d="M 100 30 C 40 30 15 65 15 110 C 15 155 40 190 100 190 C 140 190 160 170 165 145 L 105 145 L 105 118 L 192 118 C 194 135 195 150 192 165 C 180 195 145 215 95 215 C 25 215 -10 165 -10 110 C -10 50 30 5 105 5 C 145 5 178 20 195 40 L 170 65 C 155 50 132 30 100 30 Z" fill="url(#gvLetterGrad)"/>
+      
+      <!-- V Letter Path -->
+      <path d="M 185 28 L 225 28 L 260 150 L 295 28 L 335 28 L 280 205 L 240 205 Z" fill="url(#gvLetterGrad)"/>
+    </g>
+  </g>
+</svg>

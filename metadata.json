@@ -1,0 +1,6 @@
+{
+  "name": "Gokul V - Virtual AI Portfolio",
+  "description": "Interactive Virtual Portfolio & AI Representative for Gokul V - B.Tech IT, Full-Stack & AI Developer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
