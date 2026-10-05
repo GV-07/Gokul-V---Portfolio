@@ -33,15 +33,6 @@ A passionate B.Tech IT student at Sethu Institute of Technology (8.3 CGPA) dedic
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radial" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
 ## 📫 How to Reach Me
 - 📧 Email: [your.email@example.com](mailto:gvking064@gmail.com)
 - 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/gokul-v-gv07)
